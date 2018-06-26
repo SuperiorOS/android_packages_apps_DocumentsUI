@@ -26,6 +26,8 @@
         <item name="android:textCursorDrawable">@drawable/text_cursor</item>
         <item name="android:textColorHighlight">@color/text_highlight</item>
         <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
     </style>
     <style name="ActionBarPopupTheme" parent="@style/Theme.AppCompat.DayNight" />
 
@@ -48,6 +50,8 @@
         <item name="android:windowNoTitle">true</item>
 
         <item name="android:windowSoftInputMode">stateUnspecified|adjustUnspecified</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
     </style>
 
     <style name="TrimmedHorizontalProgressBar" parent="android:Widget.Material.ProgressBar.Horizontal">
