@@ -1,24 +1,14 @@
-<!--
-Copyright (C) 2017 The Android Open Source Project
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-         http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
+<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0">
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
     <path
-        android:fillColor="#FFDB4437"
-        android:pathData="M19 3H5c-1.1 0,-2 .9,-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2,-.9 2,-2V5c0,-1.1,-.9,-2,-2,-2zM7.2 18c-.66 0,-1.2,-.54,-1.2,-1.2V12c0,-3.31 2.69,-6 6,-6s6 2.69 6 6v4.8c0 .66,-.54 1.2,-1.2 1.2H14v-4h2v-2c0,-2.21,-1.79,-4,-4,-4s-4 1.79,-4 4v2h2v4H7.2z"/>
+        android:fillColor="#FF323F"
+        android:pathData="M 12 0.3 C 18.461731573 0.3 23.7 5.53826842698 23.7 12 C 23.7 18.461731573 18.461731573 23.7 12 23.7 C 5.53826842698 23.7 0.3 18.461731573 0.3 12 C 0.3 5.53826842698 5.53826842698 0.3 12 0.3 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M17.1,6.4l-0.6-1.7L12.8,6l0,0h0v4.7c-0.4-0.2-0.9-0.3-1.3-0.3c-1.7,0-3.2,1.4-3.2,3.2c0,1.7,1.4,3.2,3.2,3.2 c1.7,0,3.1-1.4,3.2-3.1h0V7.3L17.1,6.4z M11.5,14.7c-0.6,0-1.1-0.5-1.1-1.1s0.5-1.1,1.1-1.1c0.6,0,1.1,0.5,1.1,1.1 S12.1,14.7,11.5,14.7z" />
 </vector>
