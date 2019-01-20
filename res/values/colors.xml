@@ -81,4 +81,5 @@
     <color name="inspector_section_title">#ff939393</color>
     <color name="inspector_section_divider">#E0E0E0</color>
     <color name="inspector_title_background">#40000000</color>
+    <color name="table_row_key">#000</color>
 </resources>

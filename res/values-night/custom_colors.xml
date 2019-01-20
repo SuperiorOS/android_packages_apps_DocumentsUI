@@ -58,4 +58,5 @@
 
     <color name="inspector_value">#ff6c6c6c</color>
     <color name="inspector_section_title">#ff6c6c6c</color>
+    <color name="table_row_key">#fff</color>
 </resources>

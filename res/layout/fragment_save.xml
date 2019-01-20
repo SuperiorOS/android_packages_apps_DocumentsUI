@@ -23,7 +23,8 @@
     android:baselineAligned="false"
     android:gravity="center_vertical"
     android:fitsSystemWindows="true"
-    android:minHeight="?android:attr/listPreferredItemHeightSmall">
+    android:minHeight="?android:attr/listPreferredItemHeightSmall"
+    android:background="@color/window_background">
 
     <FrameLayout
         android:layout_width="@dimen/icon_size"
