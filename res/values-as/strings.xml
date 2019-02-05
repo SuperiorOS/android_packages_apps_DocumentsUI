@@ -16,9 +16,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="files_label" msgid="771781190045103748">"ফাইলবোৰ"</string>
-    <!-- no translation found for downloads_label (5462789470049501103) -->
-    <skip />
+    <string name="files_label" msgid="771781190045103748">"ফাইল"</string>
+    <string name="downloads_label" msgid="5462789470049501103">"ডাউনল\'ডসমূহ"</string>
     <!-- no translation found for app_label (8089292432455111409) -->
     <skip />
     <!-- no translation found for launcher_label (799410258349837668) -->
