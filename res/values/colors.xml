@@ -18,13 +18,13 @@
        else that needs to manually declare a background matching the "default"
        app background (e.g. the drawer overlay). -->
 
-  <color name="app_background_color">@android:color/white</color>
-  <color name="background_floating">@android:color/white</color>
-  <color name="nav_bar_translucent">#99FFFFFF</color>
+    <color name="app_background_color">@*android:color/system_neutral1_0</color>
+    <color name="background_floating">@*android:color/system_neutral1_0</color>
+    <color name="nav_bar_translucent">#99FFFFFF</color>
 
-  <color name="primary">#1E88E5</color> <!-- Blue 600 -->
-  <color name="secondary">#E3F2FD</color> <!-- Blue 50 -->
-  <color name="hairline">#E0E0E0</color> <!-- Gray 300 -->
+    <color name="primary">@*android:color/system_accent1_600</color>
+    <color name="secondary">@*android:color/system_accent1_100</color>
+    <color name="hairline">#E0E0E0</color> <!-- Gray 300 -->
 
   <color name="chip_background_disable_color">#fff1f3f4</color>
   <color name="menu_search_background">@android:color/transparent</color>
@@ -53,7 +53,7 @@
   </color> <!-- 38% Grey800 -->
 
   <color name="list_divider_color">#1f000000</color>
-  <color name="list_item_selected_background_color">?android:colorSecondary
+  <color name="list_item_selected_background_color">#0FFFFFFF
   </color>
   <color name="color_surface_header">@color/app_background_color</color>
 
